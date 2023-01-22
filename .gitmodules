@@ -1,7 +1,7 @@
 [submodule "images"]
 	path = images
     url = https://github.com/p16z/images.git
-    branch = 2016087
+    branch = 2016087x
 [submodule "_gallery"]
 	path = _gallery
 	url = https://github.com/pibook/_gallery.git
