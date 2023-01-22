@@ -4,8 +4,8 @@
     branch = 2016087
 [submodule "_gallery"]
 	path = _gallery
-	url = https://github.com/pibook/_gallery.git
-	branch = master
+	url = https://github.com/p16z/_gallery.git
+	branch = 2016087
 [submodule "_includes/extras"]
 	path = _includes/extras
 	url = https://github.com/pibook/extras.git
